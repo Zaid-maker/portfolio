@@ -1,0 +1,79 @@
+{
+  "section-name": "Проєкти",
+  "works": {
+    "Portfolio": {
+      "title": "Портфоліо",
+      "description": "Мій особистий сайт портфоліо складається з моїх проєктів, навичок та контактної інформації. Це те, що ви відвідуєте прямо зараз.",
+      "stack": {
+        "Next.js": "Next.js",
+        "React": "React",
+        "TypeScript": "TypeScript",
+        "Mantine": "Mantine",
+        "Three.js": "Three.js"
+      }
+    },
+    "Splendid": {
+      "title": "Splendid",
+      "description": "Гібридна CMS, розширююча можливості фреймворку внаслідок своєї розширюваної кодової бази. Надає абсолютно новий погляд на CMS.",
+      "stack": {
+        "NestJS": "NestJS",
+        "Next.js": "Next.js",
+        "React": "React",
+        "TypeScript": "TypeScript",
+        "Prisma": "Prisma",
+        "Mantine": "Mantine"
+      }
+    },
+    "Todo tracker": {
+      "title": "Трекер списку завдань",
+      "description": "Мінімалістична програма побудована з Vue.js і Tailwind CSS. Використовує firebase для автентифікації та бази даних.",
+      "stack": {
+        "Vue.js": "Vue.js",
+        "Tailwind CSS": "Tailwind CSS",
+        "Firebase": "Firebase"
+      }
+    },
+    "Profile Card": {
+      "title": "Картка профілю",
+      "description": "Картка профілю зроблена такою ж як і картка профілю Discord. Це вважається моїм першим проєктом у веброзробці.",
+      "stack": {
+        "HTML": "HTML",
+        "SASS": "SASS",
+        "TypeScript": "TypeScript"
+      }
+    },
+    "Slova": {
+      "title": "Slova",
+      "description": "Інструмент-заповнювач для створення неіснуючих вимовних слів. Чудовий інструмент, якщо ви хочете поглянути на свій продукт під іншим кутом.",
+      "stack": {
+        "TypeScript": "TypeScript",
+        "Jest": "Jest"
+      }
+    },
+    "KNRTU-KAI Discord Bot": {
+      "title": "Discord бот КНДТУ-КАІ",
+      "description": "Discord бот для університету КНДТУ-КАІ. Він надає багато корисних функцій для учнів та вчителів.",
+      "stack": {
+        "Sapphire": "Sapphire",
+        "TypeScript": "TypeScript",
+        "Prisma": "Prisma"
+      }
+    },
+    "Kai.js": {
+      "title": "Kai.js",
+      "description": "Невеликий сучасний API враппер веб-сайту КНДТУ-КАІ написаний для Node.js. Він використовується в Discord боті КНДТУ-КАІ.",
+      "stack": {
+        "JavaScript": "JavaScript"
+      }
+    },
+    "Cvet": {
+      "title": "Cvet",
+      "description": "Дієвий колірний інструмент для налаштування та вибору кольорів для проєктів без будь-яких коливань.",
+      "stack": {
+        "TypeScript": "TypeScript",
+        "Jest": "Jest",
+        "Oclif": "Oclif"
+      }
+    }
+  }
+}

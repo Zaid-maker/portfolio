@@ -1,0 +1,79 @@
+{
+  "section-name": "Projekty",
+  "works": {
+    "Portfolio": {
+      "title": "Portfolio",
+      "description": "Moje własne portfolio zawierające wszystkie moje projekty, umiejętności i informacje kontaktowe. To jest ta strona, którą w tym momencie widzisz.",
+      "stack": {
+        "Next.js": "Next.js",
+        "React": "React",
+        "TypeScript": "TypeScript",
+        "Mantine": "Mantine",
+        "Three.js": "Three.js"
+      }
+    },
+    "Splendid": {
+      "title": "Splendid",
+      "description": "Hybrydowy CMS rozszerzający moc struktury przez jego rozszerzalną bazę kodów. Wprowadza całkowicie nową perspektywę na CMS.",
+      "stack": {
+        "NestJS": "NestJS",
+        "Next.js": "Next.js",
+        "React": "React",
+        "TypeScript": "TypeScript",
+        "Prisma": "Prisma",
+        "Mantine": "Mantine"
+      }
+    },
+    "Todo tracker": {
+      "title": "Todo tracker",
+      "description": "Minimalistyczna aplikacja z listą rzeczy do zrobienia, stworzona z użyciem Vue.js i Tailwind CSS. Używa firebase do uwierzetelniania i bazy danych.",
+      "stack": {
+        "Vue.js": "Vue.js",
+        "Tailwind CSS": "Tailwind CSS",
+        "Firebase": "Firebase"
+      }
+    },
+    "Profile Card": {
+      "title": "Karta profilu",
+      "description": "Prosta karta profilu zrobiona podobnie do karty profilu na discordzie. Jest uważany za mój pierwszy projekt tworzenia stron.",
+      "stack": {
+        "HTML": "HTML",
+        "SASS": "SASS",
+        "TypeScript": "TypeScript"
+      }
+    },
+    "Slova": {
+      "title": "Slova",
+      "description": "Narzędzie zastępcze do tworzenia nieistniejących, ale wymawialnych słów. Fajne narzędzie, jeśli chcesz popatrzeć na swój projekt z innej perspektywy.",
+      "stack": {
+        "TypeScript": "TypeScript",
+        "Jest": "Jest"
+      }
+    },
+    "KNRTU-KAI Discord Bot": {
+      "title": "KNRTU-KAI Discord Bot",
+      "description": "Bot discord dla uniwersytetu KNRTU-KAI. Zawiera dużo użytecznych funkcji dla studentów i nauczycieli.",
+      "stack": {
+        "Sapphire": "Sapphire",
+        "TypeScript": "TypeScript",
+        "Prisma": "Prisma"
+      }
+    },
+    "Kai.js": {
+      "title": "Kai.js",
+      "description": "Mały modernistyczny API wrapper strony KNRTU-KAI napisany dla Node.js. Jest użyty w bocie KNRTU-KAI.",
+      "stack": {
+        "JavaScript": "JavaScript"
+      }
+    },
+    "Cvet": {
+      "title": "Cvet",
+      "description": "Wydajne narzędzie kolorystyczne do dostosowywania i wybierania kolorów do projektów.",
+      "stack": {
+        "TypeScript": "TypeScript",
+        "Jest": "Jest",
+        "Oclif": "Oclif"
+      }
+    }
+  }
+}

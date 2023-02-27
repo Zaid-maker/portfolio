@@ -1,0 +1,13 @@
+{
+  "section-name": "Tentang",
+  "full-name": {
+    "first": "Kamil",
+    "last": "Sakhabutdinov",
+    "middle": "Rasimovich"
+  },
+  "nickname-label": "Dan juga dikenal sebagai {{nicknameValue}}",
+  "nickname-value": "Domin",
+  "location-label": "Lokasi:",
+  "location-value": "Kazan, Russia",
+  "description-value": "Berambisi, 17 tahun mempelajari sendiri software engineer dengan penuh gairah akan teknologi, web desain dan development. Sudah mempelajari sejak 12 tahun. ahli dalam developing databases, membuat user interfaces dan menerapkan fitur baru dari saran pengguna. Siap mempelajari dan berkolaborasi dalam lingkungan dan komposisi yang berubah dengan cepat, beradaptasi dengan semua tahapan dalam pengembangan web tingkat lanjut."
+}

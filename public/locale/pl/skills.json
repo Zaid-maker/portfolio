@@ -1,0 +1,55 @@
+{
+  "section-name": "Umiejętności",
+  "examples-label": "Przykłady:",
+  "knowledge-label": "Moja wiedza na temat {{skillName}}:",
+  "skills": {
+    "Java": {
+      "name": "Java",
+      "description": "Moją podróż z programowaniem zacząłem z Javą, żeby robić aplikacje mobilne i do teraz to kocham."
+    },
+    "JavaScript": {
+      "name": "JavaScript",
+      "description": "Po jakimś czasie zacząłem tworzyć strony internetowe używając JavaScript."
+    },
+    "SASS": {
+      "name": "SASS",
+      "description": "Język skryptowy preprocesora, który jest interpretowany lub kompilowany w CSS."
+    },
+    "Tailwind CSS": {
+      "name": "Tailwind CSS",
+      "description": "\"Utility-first\" struktura CSS do szybkiego tworzenia niestandardowych projektów."
+    },
+    "TypeScript": {
+      "name": "TypeScript",
+      "description": "Najważniejszy element większości moich projektów. Użyty w tym portfolio."
+    },
+    "React": {
+      "name": "React",
+      "description": "Biblioteka JavaScript do tworzenia interfejsów użytkownika."
+    },
+    "Redux": {
+      "name": "Redux",
+      "description": "Kontener przewidywalnego stanu dla aplikacji JavaScript."
+    },
+    "Next.js": {
+      "name": "Next.js",
+      "description": "Struktura react do produkcji. Użyta w tym prortfolio."
+    },
+    "Vue.js": {
+      "name": "Vue.js",
+      "description": "Struktura JavaScript do tworzenia interfejsów użytkownika. W mojej opinii niesamowita dla początkujących."
+    },
+    "NestJS": {
+      "name": "NestJS",
+      "description": "Progresywna struktura node.js do tworzenia efektywnych i niezawodnych aplikacji po stronie serwera."
+    },
+    "Python": {
+      "name": "Pyton",
+      "description": "Nie używam Pythona nigdzie, ale na uczelni, żeby pomóc moim przyjaciołom z projektami."
+    },
+    "Rust": {
+      "name": "Rust",
+      "description": "Uczę się języka rust i narazie go uwielbiam."
+    }
+  }
+}

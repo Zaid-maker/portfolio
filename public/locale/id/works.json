@@ -1,0 +1,79 @@
+{
+  "section-name": "Karya",
+  "works": {
+    "Portfolio": {
+      "title": "Portofolio",
+      "description": "Situs web portofolio pribadi saya yang terdiri dari proyek, kumpulan keterampilan, dan informasi kontak saya. Inilah yang Anda kunjungi sekarang.",
+      "stack": {
+        "Next.js": "Next.js",
+        "React": "React",
+        "TypeScript": "TypeScript",
+        "Mantine": "Mantine",
+        "Three.js": "Three.js"
+      }
+    },
+    "Splendid": {
+      "title": "Splendid",
+      "description": "Hybrid CMS memperluas kekuatan kerangka kerja dengan basis kode yang dapat diperluas. Memberikan tampilan yang benar-benar baru di CMS.",
+      "stack": {
+        "NestJS": "NestJS",
+        "Next.js": "Next.js",
+        "React": "React",
+        "TypeScript": "TypeScript",
+        "Prisma": "Prisma",
+        "Mantine": "Mantine"
+      }
+    },
+    "Todo tracker": {
+      "title": "Pelacak Todo",
+      "description": "Aplikasi todo minimalis yang dibuat dengan Vue.js dan Tailwind CSS. Menggunakan firebase untuk autentikasi dan database.",
+      "stack": {
+        "Vue.js": "Vue.js",
+        "Tailwind CSS": "Tailwind CSS",
+        "Firebase": "Firebase"
+      }
+    },
+    "Profile Card": {
+      "title": "Kartu Profil",
+      "description": "Kartu profil sederhana yang dibuat mirip dengan kartu profil discord. proyek pertama saya dalam web development.",
+      "stack": {
+        "HTML": "HTML",
+        "SASS": "SASS",
+        "TypeScript": "TypeScript"
+      }
+    },
+    "Slova": {
+      "title": "Slova",
+      "description": "Alat placeholder untuk menghasilkan kata-kata yang belum pernah terucap. Alat ini berguna jika Anda ingin melihat produk Anda dari sudut yang berbeda.",
+      "stack": {
+        "TypeScript": "TypeScript",
+        "Jest": "Jest"
+      }
+    },
+    "KNRTU-KAI Discord Bot": {
+      "title": "KNRTU-KAI Discord Bot",
+      "description": "Discord bot untuk KNRTU-KAI university. menyediakan banyak fitur yang berguna bagi pelajar dan juga guru.",
+      "stack": {
+        "Sapphire": "Sapphire",
+        "TypeScript": "TypeScript",
+        "Prisma": "Prisma"
+      }
+    },
+    "Kai.js": {
+      "title": "Kai.js",
+      "description": "API modern kecil dari situs web KNRTU-KAI ditulis untuk Node.js. Ini digunakan dalam Discord Bot KNRTU-KAI.",
+      "stack": {
+        "JavaScript": "JavaScript"
+      }
+    },
+    "Cvet": {
+      "title": "Cvet",
+      "description": "Alat warna yang efisien untuk menyesuaikan dan memilih warna untuk proyek tanpa ragu-ragu.",
+      "stack": {
+        "TypeScript": "TypeScript",
+        "Jest": "Jest",
+        "Oclif": "Oclif"
+      }
+    }
+  }
+}

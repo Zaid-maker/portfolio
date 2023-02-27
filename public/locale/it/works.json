@@ -1,0 +1,79 @@
+{
+  "section-name": "Progetti",
+  "works": {
+    "Portfolio": {
+      "title": "Portfolio",
+      "description": "My personal portfolio website constisting of my projects, skill stack and contact information. This is what you visit right now.",
+      "stack": {
+        "Next.js": "Next.js",
+        "React": "React",
+        "TypeScript": "TypeScript",
+        "Mantine": "Mantine",
+        "Three.js": "Three.js"
+      }
+    },
+    "Splendid": {
+      "title": "Splendid",
+      "description": "Hybrid CMS extending framework power by its extensible codebase. Provides a completely new view on CMS.",
+      "stack": {
+        "NestJS": "NestJS",
+        "Next.js": "Next.js",
+        "React": "React",
+        "TypeScript": "TypeScript",
+        "Prisma": "Prisma",
+        "Mantine": "Mantine"
+      }
+    },
+    "Todo tracker": {
+      "title": "Todo tracker",
+      "description": "Un todo tracker minimalista creato con Vue.js e Tailwind CSS. Utilizza Firebase per l'autenticazione e il database.",
+      "stack": {
+        "Vue.js": "Vue.js",
+        "Tailwind CSS": "Tailwind CSS",
+        "Firebase": "Firebase"
+      }
+    },
+    "Profile Card": {
+      "title": "Card profilo",
+      "description": "Una card semplice simile al profilo di un utente su Discord. Viene considerato il mio primo progetto nello sviluppo web.",
+      "stack": {
+        "HTML": "HTML",
+        "SASS": "SASS",
+        "TypeScript": "TypeScript"
+      }
+    },
+    "Slova": {
+      "title": "Slova",
+      "description": "A placeholder tool for generating non-existing speakable words. Great tool if you want to look at your product from a different angle.",
+      "stack": {
+        "TypeScript": "TypeScript",
+        "Jest": "Jest"
+      }
+    },
+    "KNRTU-KAI Discord Bot": {
+      "title": "Il bot KNRTU-KAI per Discord",
+      "description": "Un bot su Discord per l'università KNRTU-KAI. Offre moltissime funzioni utili per studenti e insegnanti.",
+      "stack": {
+        "Sapphire": "Sapphire",
+        "TypeScript": "TypeScript",
+        "Prisma": "Prisma"
+      }
+    },
+    "Kai.js": {
+      "title": "Kai.js",
+      "description": "Un'API piccola e moderna scritta in Node.js per il sito di KNRTU-KAI. Viene utilizzata per il bot KNRTU-KAI su Discord.",
+      "stack": {
+        "JavaScript": "JavaScript"
+      }
+    },
+    "Cvet": {
+      "title": "Cvet",
+      "description": "An effecient color tool for customizing and picking colors for projects without any hesitation.",
+      "stack": {
+        "TypeScript": "TypeScript",
+        "Jest": "Jest",
+        "Oclif": "Oclif"
+      }
+    }
+  }
+}

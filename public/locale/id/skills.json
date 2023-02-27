@@ -1,0 +1,55 @@
+{
+  "section-name": "Keahlian",
+  "examples-label": "Contohnya:",
+  "knowledge-label": "Pengetahuan ku akan {{skillName}}:",
+  "skills": {
+    "Java": {
+      "name": "Java",
+      "description": "Saya memulai perjalan programming saya dengan menggunakan Java untuk mobile development dan saya masih menyukainya hingga hari ini."
+    },
+    "JavaScript": {
+      "name": "JavaScript",
+      "description": "Setelah beberapa waktu aku mengganti jadi web development dan semua berawal dengan JavaScript."
+    },
+    "SASS": {
+      "name": "SASS",
+      "description": "Bahasa skrip preprosesor yang ditafsirkan atau dikompilasi ke dalam CSS."
+    },
+    "Tailwind CSS": {
+      "name": "Tailwind CSS",
+      "description": "Kerangka kerja CSS yang mengutamakan utilitas untuk membuat desain khusus dengan cepat."
+    },
+    "TypeScript": {
+      "name": "TypeScript",
+      "description": "Harus dimiliki untuk sebagian besar proyek saya. Digunakan dalam portofolio ini."
+    },
+    "React": {
+      "name": "React",
+      "description": "JavaScript library untuk membuat antarmuka pengguna."
+    },
+    "Redux": {
+      "name": "Redux",
+      "description": "Penampung status yang dapat diprediksi untuk aplikasi JavaScript."
+    },
+    "Next.js": {
+      "name": "Next.js",
+      "description": "Framework React untuk produksi, digunakan di dalam portofolio ini."
+    },
+    "Vue.js": {
+      "name": "Vue.js",
+      "description": "JavaScript framework untuk membangun user interface. Pendapat saya ini adalah framework paling bagus untuk para pemula."
+    },
+    "NestJS": {
+      "name": "NestJS",
+      "description": "Framework Node.js progresif untuk membangun aplikasi sisi server yang efisien, andal, dan dapat diskalakan."
+    },
+    "Python": {
+      "name": "Python",
+      "description": "Tidak menggunakan python dimanapun kecuali di perguruan tinggi/untuk membantu kawan kawanku dengan proyek mereka."
+    },
+    "Rust": {
+      "name": "Rust",
+      "description": "Aku mempelajari Rust dan aku menyukainya hingga sekarang."
+    }
+  }
+}
