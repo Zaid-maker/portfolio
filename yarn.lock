@@ -1996,12 +1996,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"i18next@npm:^22.4.9":
-  version: 22.4.9
-  resolution: "i18next@npm:22.4.9"
+"i18next@npm:^22.4.14":
+  version: 22.4.14
+  resolution: "i18next@npm:22.4.14"
   dependencies:
     "@babel/runtime": ^7.20.6
-  checksum: 8cce4aaced4857e006fab2c9d4adb0eb1375829e459076be79d4d3532b1be6342b7003a720e187098f17bb276bea46df8b3fc2cf21f0f3a230bd519243048d1a
+  checksum: 963b70c7e1fee9666ef4d9ea87a63d0c9483007e2a0ea9520356e43a2cd550f3eb1cab24c57a102f3e84fd737fdff41bafc953dafc3bd6589dc9ea52ddb49905
   languageName: node
   linkType: hard
 
@@ -3090,7 +3090,7 @@ __metadata:
     cookies-next: ^2.1.1
     devicons-react: ^1.2.5
     embla-carousel-react: ^7.0.3
-    i18next: ^22.4.9
+    i18next: ^22.4.14
     mantine-flagpack: ^1.0.1
     next: ^13.1.3
     next-i18next: ^13.1.4
