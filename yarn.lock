@@ -762,7 +762,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@react-spring/three@npm:^9.3.1":
+"@react-spring/three@npm:~9.6.1":
   version: 9.6.1
   resolution: "@react-spring/three@npm:9.6.1"
   dependencies:
@@ -785,15 +785,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@react-three/drei@npm:^9.53.3":
-  version: 9.56.17
-  resolution: "@react-three/drei@npm:9.56.17"
+"@react-three/drei@npm:^9.62.2":
+  version: 9.62.2
+  resolution: "@react-three/drei@npm:9.62.2"
   dependencies:
     "@babel/runtime": ^7.11.2
-    "@react-spring/three": ^9.3.1
+    "@react-spring/three": ~9.6.1
     "@use-gesture/react": ^10.2.24
-    camera-controls: ^2.0.1
-    detect-gpu: ^5.0.9
+    camera-controls: ^2.3.1
+    detect-gpu: ^5.0.14
     glsl-noise: ^0.0.0
     lodash.clamp: ^4.0.3
     lodash.omit: ^4.5.0
@@ -817,7 +817,7 @@ __metadata:
   peerDependenciesMeta:
     react-dom:
       optional: true
-  checksum: a68badf1b115560877125778ab45cd693a2d0c0e0a786d5e5143a37820b456ebc3c37e8eaf20bdb10d54a7dafa48cc4e81f3e7d93668915cb3711665fb4c0cff
+  checksum: 46c98c925bbf24b2b9989640c5e8eafa11dc4c90dbcf02773140a0052047bc90a24698378f4b2d39047e14a089af6d8c44ec3da9fd791cf098bb7b4ad8ab7204
   languageName: node
   linkType: hard
 
@@ -1251,12 +1251,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"camera-controls@npm:^2.0.1":
-  version: 2.1.0
-  resolution: "camera-controls@npm:2.1.0"
+"camera-controls@npm:^2.3.1":
+  version: 2.3.4
+  resolution: "camera-controls@npm:2.3.4"
   peerDependencies:
     three: ">=0.126.1"
-  checksum: d5f62a983e07c53cc64e6ff897997ca3d8ffa84fea721cee96d2646e7fc95574b9a1ddb0464332872f8677baa41eac84aedd59f91fe43876a86903fd1679eee5
+  checksum: 5715e4a09c770b67ae65cf379dd9d08119bffa872c220ccc51a9987bdaf0f70f3d5e3382ab6f6562c9226db0ae2a96f21914faa06ba85c39765a1379f4c634e6
   languageName: node
   linkType: hard
 
@@ -1534,12 +1534,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"detect-gpu@npm:^5.0.9":
-  version: 5.0.10
-  resolution: "detect-gpu@npm:5.0.10"
+"detect-gpu@npm:^5.0.14":
+  version: 5.0.18
+  resolution: "detect-gpu@npm:5.0.18"
   dependencies:
     webgl-constants: ^1.1.1
-  checksum: fd89800cb13ea4a0f16d763bf86340f0bb79c37d61a557218bcbcec18c5f85571e34a6098fa13985935788fc50902fbedc3343c7839f89db89c1928d9543d54a
+  checksum: af3c778f0fb0ca32a20757d51061acfda019b4be8a9f1968ea57fb145b4c906f4554c9d9b12feee1e421637cb31cdfc88af17c2ce58af2c552baef4e69ace915
   languageName: node
   linkType: hard
 
@@ -3081,7 +3081,7 @@ __metadata:
     "@next/bundle-analyzer": ^12.3.1
     "@next/eslint-plugin-next": ^12.1.4
     "@next/font": ^13.1.3
-    "@react-three/drei": ^9.53.3
+    "@react-three/drei": ^9.62.2
     "@react-three/fiber": ^8.10.0
     "@tabler/icons": ^1.107.0
     "@types/node": ^18.11.4
