@@ -459,10 +459,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@next/font@npm:^13.1.3":
-  version: 13.1.6
-  resolution: "@next/font@npm:13.1.6"
-  checksum: 06499c9361d8ecf1bca47f20dfb226b6e9f77668afe967809cd8a4eade1b8620f9d723032098b2a0a9df2d2e2df96ad17e8128fcb7f494c99951ee8a61027966
+"@next/font@npm:^13.3.1":
+  version: 13.3.1
+  resolution: "@next/font@npm:13.3.1"
+  checksum: c248bb0b84d522a9ebb3d6da7638127cc7978b72106de068f29ca5288ebb75e0b8330f9591bf0b0f195c9343d5bbc4f2903196bbc3a235a36ed849e78ee99957
   languageName: node
   linkType: hard
 
@@ -3080,7 +3080,7 @@ __metadata:
     "@mantine/prism": 5.9.0
     "@next/bundle-analyzer": ^12.3.1
     "@next/eslint-plugin-next": ^12.1.4
-    "@next/font": ^13.1.3
+    "@next/font": ^13.3.1
     "@react-three/drei": ^9.53.3
     "@react-three/fiber": ^8.10.0
     "@tabler/icons": ^1.107.0
