@@ -11,7 +11,7 @@
     "prettier:write": "prettier --write \"**/*.{ts,tsx}\""
   },
   "dependencies": {
-    "@emotion/react": "^11.10.4",
+    "@emotion/react": "^11.11.0",
     "@emotion/server": "^11.10.0",
     "@mantine/carousel": "5.9.0",
     "@mantine/core": "5.9.0",
