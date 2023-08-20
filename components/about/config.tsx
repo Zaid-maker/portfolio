@@ -3,7 +3,7 @@ import Domin from '@public/about/domin.jpg';
 /** An about section card information */
 export const about: About = {
   name: ['Kamil', 'Sakhabutdinov', 'Rasimovich'],
-  username: 'Domin',
+  username: 'DevMirza',
   avatar: Domin,
   description: [
     'Ambitious, self-taught 17 years old software engineer with a',
